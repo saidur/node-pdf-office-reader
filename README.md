@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Example of use of [pdfreader](https://github.com/adrienjoly/npm-pdfreader)
 
 ## 1. Parsing lines of text
@@ -73,3 +74,7 @@ new pdfreader.PdfReader().parseFileItems(filename, function(err, item){
 });
 ```
 
+=======
+# node-pdf-office-reader
+pdf-doc-reader by using nodejs
+>>>>>>> d3f7f5e73f666479ba59fab881773b9b2164efe3
